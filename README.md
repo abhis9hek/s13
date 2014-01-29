@@ -1,4 +1,7 @@
-s13
-===
-
-cream-d
+class a
+{
+  public static void main(String args[])
+  {
+    System.out.println("Abhi");
+  }
+}
